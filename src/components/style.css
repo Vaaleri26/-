@@ -1,0 +1,25 @@
+.form{
+  height : 200px;
+     margin-top:20px;
+     background: #9090a5;
+     padding-top: 55px;
+     padding-left:30px;
+     width:200px;
+     margin-left: 650px;
+}
+button{
+  width:180px;
+  height: 30px;
+  text-decoration: none;
+  padding-top: 9px;
+  color: #a675b3;
+  text-align: center;
+  line-height: 20px;
+  display: block;
+  margin: 20px auto;
+  font: normal 17px arial;
+}
+
+p{
+  color:#a675b3;
+}

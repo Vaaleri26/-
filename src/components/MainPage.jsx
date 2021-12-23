@@ -1,0 +1,10 @@
+import React from "react";
+
+const MainPage = () => {
+  return <div>
+  <h1>Get started with React-Router 6</h1>
+</div>
+};
+
+export default MainPage;
+
